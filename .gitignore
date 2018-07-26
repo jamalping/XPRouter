@@ -1,0 +1,7 @@
+XPRouter.xcodeproj/xcuserdata/
+XPRouter.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+XPRouter.xcodeproj/project.xcworkspace/xcuserdata/

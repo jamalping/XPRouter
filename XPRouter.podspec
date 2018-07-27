@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = 'XPRouter'
-  s.version      = '0.1.1'
+  s.version      = '0.1.2'
   s.summary      = 'XPRouter.'
 
   s.description  = <<-DESC
@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
   # s.watchos.deployment_target = '2.0'
   # s.tvos.deployment_target = '9.0'
 
-  s.source       = { :git => 'git@github.com:jamalping/XPRouter.git', :tag => s.version.to_s }
+  s.source       = { :git => 'https://github.com/jamalping/XPRouter.git', :tag => s.version.to_s }
 
   s.source_files = 'XPRouter/Classes/**/*'
 

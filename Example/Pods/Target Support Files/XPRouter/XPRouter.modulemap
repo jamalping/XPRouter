@@ -1,0 +1,6 @@
+framework module XPRouter {
+  umbrella header "XPRouter-umbrella.h"
+
+  export *
+  module * { export * }
+}

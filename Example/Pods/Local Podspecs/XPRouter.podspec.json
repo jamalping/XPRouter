@@ -1,0 +1,22 @@
+{
+  "name": "XPRouter",
+  "version": "0.1.0",
+  "summary": "A short description of XPRouter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/open ./XPRouter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "open .": "420436097@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/open ./XPRouter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XPRouter/Classes/**/*"
+}

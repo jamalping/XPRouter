@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = 'XPRouter'
-  s.version      = '0.1.2'
+  s.version      = '1.0.0'
   s.summary      = 'XPRouter.'
 
   s.description  = <<-DESC

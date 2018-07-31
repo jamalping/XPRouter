@@ -1,8 +1,8 @@
 //
 //  URLPattern+Generate.swift
-//  AKRouter
+//  XPRouter
 //
-//  Created by shayuan on 2018/5/24.
+//  Created by jamalping on 2018/5/24.
 //
 
 import Foundation

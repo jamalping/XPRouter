@@ -1,5 +1,5 @@
 PODS:
-  - XPRouter (0.1.0)
+  - XPRouter (1.0.0)
 
 DEPENDENCIES:
   - XPRouter (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  XPRouter: f0d1056feef5527cac5a9c426e49c94c54eeec80
+  XPRouter: fdc59322132861ab8a32a7d42fc7470db250ce22
 
-PODFILE CHECKSUM: 03bae64f8d960a1a65ccd7dc097c38a3261aa6e3
+PODFILE CHECKSUM: c2b83d6373d1b912d7d49e63a9e5daaba7142f1f
 
 COCOAPODS: 1.5.3

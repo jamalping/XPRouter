@@ -1,7 +1,7 @@
 platform :ios, '8.0'
 use_frameworks!
 
-source 'git@git.silvrr.com:iOS/Specs.git'
+#source 'git@git.silvrr.com:iOS/Specs.git'
 source 'https://github.com/CocoaPods/Specs.git'
 
 target 'XPRouter_Example' do

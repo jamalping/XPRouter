@@ -1,8 +1,8 @@
 //
 //  ModuleMediatorType.swift
-//  AKRouter
+//  XPRouter
 //
-//  Created by shayuan on 2018/5/23.
+//  Created by jamalping on 2018/5/23.
 //
 
 import Foundation

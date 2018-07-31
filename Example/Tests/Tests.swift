@@ -1,5 +1,4 @@
 import XCTest
-import XPRouter
 
 class Tests: XCTestCase {
     

@@ -6,7 +6,7 @@
 //
 import UIKit
 
-public let Router = URLRouter.shared
+public let router = URLRouter.shared
 
 open class URLRouter: URLRouterType {
     
